@@ -3,7 +3,7 @@
 <img align="right" alt="gif" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=web-knits&label=Profile%20views&color=0e75b6&style=flat" alt="web-knits" /> </p>
 
-- 👾 I’m currently working on [Inventory Management System](https://github.com/Web-KnIts/Inventory-Management-System/tree/master)
+- 👾 I’m currently working on MERN
 
 - 🌱 I’m currently learning **Next.js , Backened**
 
