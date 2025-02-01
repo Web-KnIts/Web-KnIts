@@ -1,4 +1,3 @@
-<video src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
 <h1 align="center">Hi 👋, I'm  Lakshay Seth </h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 <img align="right" alt="gif" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" />
